@@ -8,5 +8,6 @@ public class A {
         System.out.println("This is a change from hotfix branch.");
         System.out.println("This is a change from master branch.");
         System.out.println("This is a change from develop branch.");
+        System.out.println("100");
     }
 }
